@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-07-26",
+    "title": "1M 토큰 컨텍스트의 거짓말: RULER와 MRCR v2가 드러내는 장문 컨텍스트 LLM의 진짜 성능",
+    "lang": "ko",
+    "keywords": ["롱 컨텍스트 LLM", "RULER", "MRCR v2", "NoLiMa", "HELMET", "1M 토큰", "effective context"],
+    "filename": "2026-07-26-long-context-llm-benchmarks-ruler-mrcr-nolima-effective-context.md",
+    "word_count": 2400,
+    "quality_score": "pass"
+  },
+  {
+    "date": "2026-07-25",
+    "title": "2026년에도 LLM 파인튜닝을 해야 할까: LoRA와 QLoRA를 고르기 전에 점검할 6가지",
+    "lang": "ko",
+    "keywords": ["LoRA", "QLoRA", "LLM 파인튜닝", "PEFT", "Unsloth", "Gemma 4"],
+    "filename": "2026-07-25-lora-qlora-finetuning-2026-decision-guide.md",
+    "word_count": 2400,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-24",
     "title": "읽기·쓰기 MCP와 x402 결제를 분리해야 하는 이유",
     "lang": "ko",

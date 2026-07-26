@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1784093111483,
+  "lastScanned": 1785043451870,
   "projectRoot": "/Users/zemyblue-mac-mini-m1/projects/zemyalpha.github.io",
   "techStack": {
     "languages": [
@@ -44,14 +44,14 @@
       "path": "_includes",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1784093111463,
+      "lastAccessed": 1785043451856,
       "keyFiles": []
     },
     "_layouts": {
       "path": "_layouts",
       "purpose": null,
       "fileCount": 3,
-      "lastAccessed": 1784093111464,
+      "lastAccessed": 1785043451856,
       "keyFiles": [
         "default.html",
         "page.html",
@@ -62,14 +62,14 @@
       "path": "_log",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1784093111464,
+      "lastAccessed": 1785043451857,
       "keyFiles": []
     },
     "_posts": {
       "path": "_posts",
       "purpose": null,
-      "fileCount": 70,
-      "lastAccessed": 1784093111465,
+      "fileCount": 81,
+      "lastAccessed": 1785043451857,
       "keyFiles": [
         "2026-04-27-mcp-server-tutorial-30min.md",
         "2026-04-28-github-agentic-workflows-ai-coding-setup-2026.md",
@@ -82,35 +82,29 @@
       "path": "_projects",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1784093111465,
+      "lastAccessed": 1785043451858,
       "keyFiles": []
     },
     "_resources": {
       "path": "_resources",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1784093111465,
+      "lastAccessed": 1785043451858,
       "keyFiles": []
     },
     "assets": {
       "path": "assets",
       "purpose": "Static assets",
       "fileCount": 0,
-      "lastAccessed": 1784093111466,
+      "lastAccessed": 1785043451858,
       "keyFiles": []
     }
   },
   "hotPaths": [
     {
-      "path": "_posts/2026-07-13-llm-prompt-caching-kv-cache-reuse-cost-anthropic-openai-gemini.md",
+      "path": "_posts/2026-07-26-long-context-llm-benchmarks-ruler-mrcr-nolima-effective-context.md",
       "accessCount": 1,
-      "lastAccessed": 1783920881060,
-      "type": "file"
-    },
-    {
-      "path": "_posts/2026-07-15-ai-agent-memory-architecture-access-pattern-storage-selection.md",
-      "accessCount": 1,
-      "lastAccessed": 1784093120873,
+      "lastAccessed": 1785043460648,
       "type": "file"
     }
   ],
