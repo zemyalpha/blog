@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-27",
+    "title": "vLLM, SGLang, TensorRT-LLM: 2026년 LLM 추론 엔진을 고르는 6가지 질문",
+    "lang": "ko",
+    "keywords": ["vLLM", "SGLang", "TensorRT-LLM", "LLM 추론 엔진", "PagedAttention", "RadixAttention", "DeepSeek R1"],
+    "filename": "2026-07-27-vllm-sglang-tensorrt-llm-inference-engine-selection-2026.md",
+    "word_count": 2800,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-26",
     "title": "1M 토큰 컨텍스트의 거짓말: RULER와 MRCR v2가 드러내는 장문 컨텍스트 LLM의 진짜 성능",
     "lang": "ko",
