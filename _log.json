@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-28",
+    "title": "PPO에서 GRPO까지: LLM 정렬 알고리즘이 평가 모델을 버린 과정과 실전 선택 기준",
+    "lang": "ko",
+    "keywords": ["GRPO", "DPO", "RLHF", "SimPO", "RLVR", "LLM 정렬", "선호도 최적화", "DeepSeek R1"],
+    "filename": "2026-07-28-ppo-grpo-llm-alignment-rlvr-simpo-dapo-evolution.md",
+    "word_count": 3000,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-27",
     "title": "vLLM, SGLang, TensorRT-LLM: 2026년 LLM 추론 엔진을 고르는 6가지 질문",
     "lang": "ko",
