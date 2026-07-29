@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-29",
+    "title": "AI 에이전트 메모리: 벡터 DB가 해결하지 못하는 것과 계층형 설계의 실전",
+    "lang": "ko",
+    "keywords": ["AI 에이전트 메모리", "벡터 데이터베이스", "지식 그래프", "LoCoMo", "LangGraph", "Mem0", "CoALA"],
+    "filename": "2026-07-29-ai-agent-memory-architecture-vector-graph-hierarchy.md",
+    "word_count": 3000,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-28",
     "title": "PPO에서 GRPO까지: LLM 정렬 알고리즘이 평가 모델을 버린 과정과 실전 선택 기준",
     "lang": "ko",
