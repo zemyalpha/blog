@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-07-30",
+    "title": "증류가 강화학습을 대체한다: 2026년 프론티어 모델이 온폴리시 증류로 모인 방식",
+    "lang": "ko",
+    "keywords": ["지식 증류", "on-policy distillation", "MOPD", "DeepSeek V4", "Qwen3", "Nemotron", "GLM-5", "강화학습"],
+    "filename": "2026-07-30-llm-distillation-2026-on-policy-multi-teacher-self-distillation.md",
+    "word_count": 3000,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-29",
     "title": "AI 에이전트 메모리: 벡터 DB가 해결하지 못하는 것과 계층형 설계의 실전",
     "lang": "ko",
