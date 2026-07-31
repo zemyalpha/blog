@@ -1,9 +1,35 @@
 [
   {
+    "date": "2026-07-31",
+    "title": "실시간 Voice AI Agent 지연 최적화: 1400ms를 600ms로 줄이는 스트리밍 파이프라인 설계",
+    "lang": "ko",
+    "keywords": [
+      "Voice AI Agent",
+      "실시간 음성 AI",
+      "지연 최적화",
+      "streaming ASR",
+      "TTS",
+      "WebRTC",
+      "barge-in"
+    ],
+    "filename": "2026-07-31-realtime-voice-ai-agent-latency-pipeline-design.md",
+    "word_count": 3000,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-30",
     "title": "증류가 강화학습을 대체한다: 2026년 프론티어 모델이 온폴리시 증류로 모인 방식",
     "lang": "ko",
-    "keywords": ["지식 증류", "on-policy distillation", "MOPD", "DeepSeek V4", "Qwen3", "Nemotron", "GLM-5", "강화학습"],
+    "keywords": [
+      "지식 증류",
+      "on-policy distillation",
+      "MOPD",
+      "DeepSeek V4",
+      "Qwen3",
+      "Nemotron",
+      "GLM-5",
+      "강화학습"
+    ],
     "filename": "2026-07-30-llm-distillation-2026-on-policy-multi-teacher-self-distillation.md",
     "word_count": 3000,
     "quality_score": "pass"
@@ -12,7 +38,15 @@
     "date": "2026-07-29",
     "title": "AI 에이전트 메모리: 벡터 DB가 해결하지 못하는 것과 계층형 설계의 실전",
     "lang": "ko",
-    "keywords": ["AI 에이전트 메모리", "벡터 데이터베이스", "지식 그래프", "LoCoMo", "LangGraph", "Mem0", "CoALA"],
+    "keywords": [
+      "AI 에이전트 메모리",
+      "벡터 데이터베이스",
+      "지식 그래프",
+      "LoCoMo",
+      "LangGraph",
+      "Mem0",
+      "CoALA"
+    ],
     "filename": "2026-07-29-ai-agent-memory-architecture-vector-graph-hierarchy.md",
     "word_count": 3000,
     "quality_score": "pass"
@@ -21,7 +55,16 @@
     "date": "2026-07-28",
     "title": "PPO에서 GRPO까지: LLM 정렬 알고리즘이 평가 모델을 버린 과정과 실전 선택 기준",
     "lang": "ko",
-    "keywords": ["GRPO", "DPO", "RLHF", "SimPO", "RLVR", "LLM 정렬", "선호도 최적화", "DeepSeek R1"],
+    "keywords": [
+      "GRPO",
+      "DPO",
+      "RLHF",
+      "SimPO",
+      "RLVR",
+      "LLM 정렬",
+      "선호도 최적화",
+      "DeepSeek R1"
+    ],
     "filename": "2026-07-28-ppo-grpo-llm-alignment-rlvr-simpo-dapo-evolution.md",
     "word_count": 3000,
     "quality_score": "pass"
@@ -30,7 +73,15 @@
     "date": "2026-07-27",
     "title": "vLLM, SGLang, TensorRT-LLM: 2026년 LLM 추론 엔진을 고르는 6가지 질문",
     "lang": "ko",
-    "keywords": ["vLLM", "SGLang", "TensorRT-LLM", "LLM 추론 엔진", "PagedAttention", "RadixAttention", "DeepSeek R1"],
+    "keywords": [
+      "vLLM",
+      "SGLang",
+      "TensorRT-LLM",
+      "LLM 추론 엔진",
+      "PagedAttention",
+      "RadixAttention",
+      "DeepSeek R1"
+    ],
     "filename": "2026-07-27-vllm-sglang-tensorrt-llm-inference-engine-selection-2026.md",
     "word_count": 2800,
     "quality_score": "pass"
@@ -39,7 +90,15 @@
     "date": "2026-07-26",
     "title": "1M 토큰 컨텍스트의 거짓말: RULER와 MRCR v2가 드러내는 장문 컨텍스트 LLM의 진짜 성능",
     "lang": "ko",
-    "keywords": ["롱 컨텍스트 LLM", "RULER", "MRCR v2", "NoLiMa", "HELMET", "1M 토큰", "effective context"],
+    "keywords": [
+      "롱 컨텍스트 LLM",
+      "RULER",
+      "MRCR v2",
+      "NoLiMa",
+      "HELMET",
+      "1M 토큰",
+      "effective context"
+    ],
     "filename": "2026-07-26-long-context-llm-benchmarks-ruler-mrcr-nolima-effective-context.md",
     "word_count": 2400,
     "quality_score": "pass"
@@ -48,7 +107,14 @@
     "date": "2026-07-25",
     "title": "2026년에도 LLM 파인튜닝을 해야 할까: LoRA와 QLoRA를 고르기 전에 점검할 6가지",
     "lang": "ko",
-    "keywords": ["LoRA", "QLoRA", "LLM 파인튜닝", "PEFT", "Unsloth", "Gemma 4"],
+    "keywords": [
+      "LoRA",
+      "QLoRA",
+      "LLM 파인튜닝",
+      "PEFT",
+      "Unsloth",
+      "Gemma 4"
+    ],
     "filename": "2026-07-25-lora-qlora-finetuning-2026-decision-guide.md",
     "word_count": 2400,
     "quality_score": "pass"
