@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-01",
+    "title": "학습 없이 LLM 능력을 합치는 모델 병합: SLERP·TIES·DARE 실전 설계",
+    "lang": "ko",
+    "keywords": [
+      "모델 병합",
+      "model merging",
+      "mergekit",
+      "SLERP",
+      "TIES-Merging",
+      "DARE",
+      "task arithmetic"
+    ],
+    "filename": "2026-08-01-model-merging-slerp-ties-dare-mergekit-practical-guide.md",
+    "word_count": 3000,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-31",
     "title": "실시간 Voice AI Agent 지연 최적화: 1400ms를 600ms로 줄이는 스트리밍 파이프라인 설계",
     "lang": "ko",
