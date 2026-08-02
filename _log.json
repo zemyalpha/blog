@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-02",
+    "title": "추측적 디코딩이 LLM 추론을 6.5배 빠르게 만드는 방법: EAGLE-3까지의 진화와 프로덕션 적용 가이드",
+    "lang": "ko",
+    "keywords": [
+      "추측적 디코딩",
+      "speculative decoding",
+      "EAGLE",
+      "vLLM",
+      "LLM 추론 가속화",
+      "draft model"
+    ],
+    "filename": "2026-08-02-speculative-decoding-eagle3-llm-inference-acceleration.md",
+    "word_count": 3743,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-01",
     "title": "학습 없이 LLM 능력을 합치는 모델 병합: SLERP·TIES·DARE 실전 설계",
     "lang": "ko",
