@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-03",
+    "title": "Chrome 148 Prompt API가 안정화됐다: 온디바이스 AI의 하이브리드 패턴과 표준 논쟁",
+    "lang": "ko",
+    "keywords": [
+      "Chrome Built-in AI",
+      "Prompt API",
+      "Gemini Nano",
+      "온디바이스 AI",
+      "프로그레시브 인헨스먼트",
+      "하이브리드 AI"
+    ],
+    "filename": "2026-08-03-chrome-148-prompt-api-on-device-ai-hybrid-pattern.md",
+    "word_count": 3200,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-02",
     "title": "추측적 디코딩이 LLM 추론을 6.5배 빠르게 만드는 방법: EAGLE-3까지의 진화와 프로덕션 적용 가이드",
     "lang": "ko",
