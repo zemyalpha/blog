@@ -879,5 +879,21 @@
     "filename": "2026-07-18-serverless-gpu-claude-code-cursor-ai-stack.md",
     "word_count": 900,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-08-04",
+    "title": "합성 데이터로 LLM 사전학습을 5~10배 빠르게: 30% 비율과 모델 붕괴의 진실",
+    "lang": "ko",
+    "keywords": [
+      "synthetic data",
+      "LLM pretraining",
+      "model collapse",
+      "Cosmopedia",
+      "합성 데이터",
+      "사전학습"
+    ],
+    "filename": "2026-08-04-synthetic-data-llm-pretraining-ratio-model-collapse.md",
+    "word_count": 3200,
+    "quality_score": "pass"
   }
 ]
