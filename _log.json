@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-08-05",
+    "title": "AI 에이전트의 도구 사용 능력을 어떻게 측정할 것인가: BFCL·Tau-Bench·T-Eval·ToolBench 비교와 선택 기준",
+    "lang": "ko",
+    "keywords": ["tool use benchmark", "BFCL", "Tau-Bench", "T-Eval", "function calling", "AI 에이전트 평가"],
+    "filename": "2026-08-05-llm-tool-use-benchmarks-bfcl-tau-bench-t-eval-selection-guide.md",
+    "word_count": 3200,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-03",
     "title": "Chrome 148 Prompt API가 안정화됐다: 온디바이스 AI의 하이브리드 패턴과 표준 논쟁",
     "lang": "ko",
