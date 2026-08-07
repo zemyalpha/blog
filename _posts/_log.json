@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-07",
+    "title": "HTTP 200이지만 에이전트는 망가졌다: 조용한 실패를 잡는 멱등성과 의미 기반 회로 차단기",
+    "lang": "ko",
+    "keywords": [
+      "AI 에이전트 신뢰성",
+      "silent failure",
+      "멱등성",
+      "circuit breaker",
+      "tool call reliability"
+    ],
+    "filename": "2026-08-07-ai-agent-silent-failure-idempotency-semantic-circuit-breaker.md",
+    "word_count": 2600,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-07-24",
     "title": "읽기·쓰기 MCP와 x402 결제를 분리해야 하는 이유",
     "lang": "ko",
