@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-08",
+    "title": "LLM JSON 실패를 0%로: Constrained Decoding 엔진 비교와 실전 적용 가이드",
+    "lang": "ko",
+    "keywords": [
+      "constrained decoding",
+      "structured output",
+      "XGrammar",
+      "Outlines",
+      "llguidance",
+      "JSON Schema"
+    ],
+    "filename": "2026-08-08-llm-structured-output-constrained-decoding-xgrammar-outlines-llguidance.md",
+    "word_count": 3500,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-07",
     "title": "HTTP 200이지만 에이전트는 망가졌다: 조용한 실패를 잡는 멱등성과 의미 기반 회로 차단기",
     "lang": "ko",
