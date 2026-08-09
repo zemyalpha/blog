@@ -726,5 +726,23 @@
     "filename": "2026-07-12-mcp-2026-07-28-spec-stateless-oauth2-resource-server.md",
     "word_count": 3200,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-08-09",
+    "title": "RAG 임베딩 모델 선택 가이드 2026 — MTEB 리더보드 해석부터 Matryoshka 차원 축소까지",
+    "lang": "ko",
+    "keywords": [
+      "임베딩 모델",
+      "RAG",
+      "MTEB",
+      "Matryoshka",
+      "Qwen3-Embedding",
+      "벡터 검색",
+      "BGE-M3",
+      "NV-Embed-v2"
+    ],
+    "filename": "2026-08-09-rag-embedding-model-selection-guide-mteb-matryoshka-2026.md",
+    "word_count": 4500,
+    "quality_score": "pass"
   }
 ]
