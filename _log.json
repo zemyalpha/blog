@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-08-10",
+    "title": "하나의 GPU가 두 가지 일을 동시에 못 하는 이유: 분리형 Prefill/Decode 서빙이 H100 활용률을 40%에서 80%로 끌어올리는 법",
+    "lang": "ko",
+    "keywords": ["분리형 추론", "disaggregated prefill decode", "vLLM", "LLM 서빙", "TTFT", "KV cache 전송", "prefill deflection"],
+    "filename": "2026-08-10-disaggregated-prefill-decode-llm-serving-architecture.md",
+    "word_count": 3000,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-06",
     "title": "LLM 라우팅이 API 비용의 절반을 결정한다: RouteLLM과 캐스케이드의 실전 설계",
     "lang": "ko",
