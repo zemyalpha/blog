@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-08-12",
+    "title": "순수 LLM 코드 리뷰가 놓치는 것: SAST와 결합해 false positive를 91% 줄이는 하이브리드 파이프라인",
+    "lang": "ko",
+    "keywords": ["AI 코드 리뷰", "SAST", "CodeRabbit", "Semgrep", "false positive", "GitHub Copilot code review", "정적 분석", "CodeQL"],
+    "filename": "2026-08-12-hybrid-llm-sast-code-review-pipeline-false-positive-reduction.md",
+    "word_count": 4000,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-10",
     "title": "하나의 GPU가 두 가지 일을 동시에 못 하는 이유: 분리형 Prefill/Decode 서빙이 H100 활용률을 40%에서 80%로 끌어올리는 법",
     "lang": "ko",
