@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1786252986550,
+  "lastScanned": 1786685366606,
   "projectRoot": "/Users/zemyblue-mac-mini-m1/projects/zemyalpha.github.io",
   "techStack": {
     "languages": [
@@ -44,14 +44,14 @@
       "path": "_includes",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1786252986538,
+      "lastAccessed": 1786685366596,
       "keyFiles": []
     },
     "_layouts": {
       "path": "_layouts",
       "purpose": null,
       "fileCount": 3,
-      "lastAccessed": 1786252986538,
+      "lastAccessed": 1786685366596,
       "keyFiles": [
         "default.html",
         "page.html",
@@ -62,14 +62,14 @@
       "path": "_log",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1786252986539,
+      "lastAccessed": 1786685366596,
       "keyFiles": []
     },
     "_posts": {
       "path": "_posts",
       "purpose": null,
-      "fileCount": 95,
-      "lastAccessed": 1786252986539,
+      "fileCount": 98,
+      "lastAccessed": 1786685366597,
       "keyFiles": [
         "2026-04-27-mcp-server-tutorial-30min.md",
         "2026-04-28-github-agentic-workflows-ai-coding-setup-2026.md",
@@ -82,29 +82,29 @@
       "path": "_projects",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1786252986539,
+      "lastAccessed": 1786685366597,
       "keyFiles": []
     },
     "_resources": {
       "path": "_resources",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1786252986540,
+      "lastAccessed": 1786685366597,
       "keyFiles": []
     },
     "assets": {
       "path": "assets",
       "purpose": "Static assets",
       "fileCount": 0,
-      "lastAccessed": 1786252986540,
+      "lastAccessed": 1786685366597,
       "keyFiles": []
     }
   },
   "hotPaths": [
     {
-      "path": "_posts/2026-08-09-rag-embedding-model-selection-guide-mteb-matryoshka-2026.md",
-      "accessCount": 3,
-      "lastAccessed": 1786253113029,
+      "path": "_posts/2026-08-14-opentelemetry-genai-semantic-conventions-llm-agent-tracing.md",
+      "accessCount": 1,
+      "lastAccessed": 1786685373611,
       "type": "file"
     }
   ],

@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-08-14",
+    "title": "OpenTelemetry가 LLM 콜 내부를 들여다보는 법: GenAI Semantic Conventions로 에이전트 트리를 추적하는 실전 가이드",
+    "lang": "ko",
+    "keywords": ["OpenTelemetry", "GenAI Semantic Conventions", "LLM 관측성", "에이전트 트레이싱", "TTFT", "분산 트레이싱", "OTel"],
+    "filename": "2026-08-14-opentelemetry-genai-semantic-conventions-llm-agent-tracing.md",
+    "word_count": 3500,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-12",
     "title": "순수 LLM 코드 리뷰가 놓치는 것: SAST와 결합해 false positive를 91% 줄이는 하이브리드 파이프라인",
     "lang": "ko",
