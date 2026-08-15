@@ -744,5 +744,21 @@
     "filename": "2026-08-09-rag-embedding-model-selection-guide-mteb-matryoshka-2026.md",
     "word_count": 4500,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-08-15",
+    "title": "A2A 프로토콜 1.0 실전 가이드 — 서로 다른 AI 에이전트를 연결하는 표준 기술",
+    "lang": "ko",
+    "keywords": [
+      "A2A 프로토콜",
+      "Agent2Agent",
+      "AI 에이전트",
+      "MCP",
+      "Agent Card",
+      "에이전트 상호운용성"
+    ],
+    "filename": "2026-08-15-a2a-protocol-1-practical-guide-agent-card-task-lifecycle.md",
+    "word_count": 3600,
+    "quality_score": "pass"
   }
 ]
