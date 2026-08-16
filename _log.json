@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-08-16",
+    "title": "AI 에이전트는 크래시 후 어디서부터 다시 실행되나: Temporal 리플레이와 LangGraph 체크포인팅으로 보는 내구성 실행 설계",
+    "lang": "ko",
+    "keywords": ["내구성 실행", "durable execution", "Temporal", "Restate", "DBOS", "LangGraph", "AI 에이전트", "이벤트 소싱"],
+    "filename": "2026-08-16-durable-execution-ai-agent-temporal-restate-dbos-langgraph.md",
+    "word_count": 3100,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-14",
     "title": "OpenTelemetry가 LLM 콜 내부를 들여다보는 법: GenAI Semantic Conventions로 에이전트 트리를 추적하는 실전 가이드",
     "lang": "ko",
