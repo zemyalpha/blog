@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-08-19",
+    "title": "MCP 2026-07-28 스펙이 세션을 없앤 방법: 스테이트리스 코어와 Tasks 확장 마이그레이션 가이드",
+    "lang": "ko",
+    "keywords": ["MCP", "Model Context Protocol", "스테이트리스", "MCP 2026-07-28", "Tasks 확장", "MRTR", "AI 에이전트 프로토콜"],
+    "filename": "2026-08-19-mcp-2026-07-28-stateless-spec-migration-guide.md",
+    "word_count": 2990,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-16",
     "title": "AI 에이전트는 크래시 후 어디서부터 다시 실행되나: Temporal 리플레이와 LangGraph 체크포인팅으로 보는 내구성 실행 설계",
     "lang": "ko",
