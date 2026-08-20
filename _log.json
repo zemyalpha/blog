@@ -1,9 +1,34 @@
 [
   {
+    "date": "2026-08-20",
+    "title": "컨텍스트는 부패한다: context rot에서 컴팩션까지, AI 에이전트 컨텍스트 엔지니어링 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "컨텍스트 엔지니어링",
+      "context engineering",
+      "context rot",
+      "컴팩션",
+      "AI 에이전트",
+      "어텐션 버짓",
+      "Claude Code"
+    ],
+    "filename": "2026-08-20-context-engineering-context-rot-compaction-agent-guide.md",
+    "word_count": 6514,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-19",
     "title": "MCP 2026-07-28 스펙이 세션을 없앤 방법: 스테이트리스 코어와 Tasks 확장 마이그레이션 가이드",
     "lang": "ko",
-    "keywords": ["MCP", "Model Context Protocol", "스테이트리스", "MCP 2026-07-28", "Tasks 확장", "MRTR", "AI 에이전트 프로토콜"],
+    "keywords": [
+      "MCP",
+      "Model Context Protocol",
+      "스테이트리스",
+      "MCP 2026-07-28",
+      "Tasks 확장",
+      "MRTR",
+      "AI 에이전트 프로토콜"
+    ],
     "filename": "2026-08-19-mcp-2026-07-28-stateless-spec-migration-guide.md",
     "word_count": 2990,
     "quality_score": "pass"
@@ -12,7 +37,16 @@
     "date": "2026-08-16",
     "title": "AI 에이전트는 크래시 후 어디서부터 다시 실행되나: Temporal 리플레이와 LangGraph 체크포인팅으로 보는 내구성 실행 설계",
     "lang": "ko",
-    "keywords": ["내구성 실행", "durable execution", "Temporal", "Restate", "DBOS", "LangGraph", "AI 에이전트", "이벤트 소싱"],
+    "keywords": [
+      "내구성 실행",
+      "durable execution",
+      "Temporal",
+      "Restate",
+      "DBOS",
+      "LangGraph",
+      "AI 에이전트",
+      "이벤트 소싱"
+    ],
     "filename": "2026-08-16-durable-execution-ai-agent-temporal-restate-dbos-langgraph.md",
     "word_count": 3100,
     "quality_score": "pass"
@@ -21,7 +55,15 @@
     "date": "2026-08-14",
     "title": "OpenTelemetry가 LLM 콜 내부를 들여다보는 법: GenAI Semantic Conventions로 에이전트 트리를 추적하는 실전 가이드",
     "lang": "ko",
-    "keywords": ["OpenTelemetry", "GenAI Semantic Conventions", "LLM 관측성", "에이전트 트레이싱", "TTFT", "분산 트레이싱", "OTel"],
+    "keywords": [
+      "OpenTelemetry",
+      "GenAI Semantic Conventions",
+      "LLM 관측성",
+      "에이전트 트레이싱",
+      "TTFT",
+      "분산 트레이싱",
+      "OTel"
+    ],
     "filename": "2026-08-14-opentelemetry-genai-semantic-conventions-llm-agent-tracing.md",
     "word_count": 3500,
     "quality_score": "pass"
@@ -30,7 +72,16 @@
     "date": "2026-08-12",
     "title": "순수 LLM 코드 리뷰가 놓치는 것: SAST와 결합해 false positive를 91% 줄이는 하이브리드 파이프라인",
     "lang": "ko",
-    "keywords": ["AI 코드 리뷰", "SAST", "CodeRabbit", "Semgrep", "false positive", "GitHub Copilot code review", "정적 분석", "CodeQL"],
+    "keywords": [
+      "AI 코드 리뷰",
+      "SAST",
+      "CodeRabbit",
+      "Semgrep",
+      "false positive",
+      "GitHub Copilot code review",
+      "정적 분석",
+      "CodeQL"
+    ],
     "filename": "2026-08-12-hybrid-llm-sast-code-review-pipeline-false-positive-reduction.md",
     "word_count": 4000,
     "quality_score": "pass"
@@ -39,7 +90,15 @@
     "date": "2026-08-10",
     "title": "하나의 GPU가 두 가지 일을 동시에 못 하는 이유: 분리형 Prefill/Decode 서빙이 H100 활용률을 40%에서 80%로 끌어올리는 법",
     "lang": "ko",
-    "keywords": ["분리형 추론", "disaggregated prefill decode", "vLLM", "LLM 서빙", "TTFT", "KV cache 전송", "prefill deflection"],
+    "keywords": [
+      "분리형 추론",
+      "disaggregated prefill decode",
+      "vLLM",
+      "LLM 서빙",
+      "TTFT",
+      "KV cache 전송",
+      "prefill deflection"
+    ],
     "filename": "2026-08-10-disaggregated-prefill-decode-llm-serving-architecture.md",
     "word_count": 3000,
     "quality_score": "pass"
@@ -48,7 +107,14 @@
     "date": "2026-08-06",
     "title": "LLM 라우팅이 API 비용의 절반을 결정한다: RouteLLM과 캐스케이드의 실전 설계",
     "lang": "ko",
-    "keywords": ["LLM 라우팅", "RouteLLM", "모델 캐스케이드", "비용 최적화", "멀티 모델 오케스트레이션", "AI Gateway"],
+    "keywords": [
+      "LLM 라우팅",
+      "RouteLLM",
+      "모델 캐스케이드",
+      "비용 최적화",
+      "멀티 모델 오케스트레이션",
+      "AI Gateway"
+    ],
     "filename": "2026-08-06-llm-routing-cascade-routellm-cost-optimization.md",
     "word_count": 3500,
     "quality_score": "pass"
@@ -57,7 +123,14 @@
     "date": "2026-08-05",
     "title": "AI 에이전트의 도구 사용 능력을 어떻게 측정할 것인가: BFCL·Tau-Bench·T-Eval·ToolBench 비교와 선택 기준",
     "lang": "ko",
-    "keywords": ["tool use benchmark", "BFCL", "Tau-Bench", "T-Eval", "function calling", "AI 에이전트 평가"],
+    "keywords": [
+      "tool use benchmark",
+      "BFCL",
+      "Tau-Bench",
+      "T-Eval",
+      "function calling",
+      "AI 에이전트 평가"
+    ],
     "filename": "2026-08-05-llm-tool-use-benchmarks-bfcl-tau-bench-t-eval-selection-guide.md",
     "word_count": 3200,
     "quality_score": "pass"
