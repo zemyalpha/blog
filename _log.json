@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-21",
+    "title": "AI 에이전트가 실행하는 코드를 어디까지 격리해야 하나: 컨테이너·gVisor·마이크로VM 격리 스펙트럼 선택 가이드",
+    "lang": "ko",
+    "keywords": [
+      "AI 에이전트 샌드박스",
+      "코드 실행 격리",
+      "gVisor",
+      "Firecracker",
+      "마이크로VM",
+      "Kata Containers",
+      "agent-sandbox"
+    ],
+    "filename": "2026-08-21-ai-agent-code-execution-sandbox-isolation-gvisor-microvm-guide.md",
+    "word_count": 4622,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-20",
     "title": "컨텍스트는 부패한다: context rot에서 컴팩션까지, AI 에이전트 컨텍스트 엔지니어링 실전 가이드",
     "lang": "ko",
