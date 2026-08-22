@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-08-22",
+    "title": "추론은 더 이상 하나의 루프가 아니다: Stanford M*의 Walk Graph가 멀티모달 서빙을 재설계한 방식",
+    "lang": "ko",
+    "keywords": [
+      "멀티모달 서빙",
+      "M*",
+      "vLLM-Omni",
+      "SGLang-Omni",
+      "Walk Graph",
+      "Qwen3-Omni",
+      "BAGEL",
+      "LLM 추론"
+    ],
+    "filename": "2026-08-22-mstar-walk-graph-multimodal-serving-vllm-omni-sglang.md",
+    "word_count": 6000,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-21",
     "title": "AI 에이전트가 실행하는 코드를 어디까지 격리해야 하나: 컨테이너·gVisor·마이크로VM 격리 스펙트럼 선택 가이드",
     "lang": "ko",
