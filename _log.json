@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-23",
+    "title": "한 번에 256토큰을 찍어내는 텍스트 디퓨전: DiffusionGemma 로컬 실행 가이드와 AR 대비 트레이드오프",
+    "lang": "ko",
+    "keywords": [
+      "텍스트 디퓨전",
+      "DiffusionGemma",
+      "디퓨전 언어 모델",
+      "DLM",
+      "Gemini Diffusion",
+      "llama.cpp",
+      "병렬 디코딩"
+    ],
+    "filename": "2026-08-23-text-diffusion-llm-diffusiongemma-local-guide.md",
+    "word_count": 5287,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-22",
     "title": "추론은 더 이상 하나의 루프가 아니다: Stanford M*의 Walk Graph가 멀티모달 서빙을 재설계한 방식",
     "lang": "ko",
