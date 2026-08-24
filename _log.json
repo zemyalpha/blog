@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-24",
+    "title": "터미널에서 일하는 AI 에이전트는 63%에서 멈춘다: Terminal-Bench 2.0 리더보드와 실패의 해부학",
+    "lang": "ko",
+    "keywords": [
+      "Terminal-Bench",
+      "코딩 에이전트 벤치마크",
+      "Harbor",
+      "AI 에이전트 평가",
+      "Terminus 2",
+      "SWE-bench"
+    ],
+    "filename": "2026-08-24-terminal-bench-2-coding-agent-leaderboard-error-analysis.md",
+    "word_count": 2412,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-23",
     "title": "한 번에 256토큰을 찍어내는 텍스트 디퓨전: DiffusionGemma 로컬 실행 가이드와 AR 대비 트레이드오프",
     "lang": "ko",
