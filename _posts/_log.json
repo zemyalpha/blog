@@ -760,5 +760,20 @@
     "filename": "2026-08-15-a2a-protocol-1-practical-guide-agent-card-task-lifecycle.md",
     "word_count": 3600,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-08-25",
+    "title": "SKILL.md 하나로 에이전트를 가르치는 시대: Agent Skills 오픈 표준 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "Agent Skills",
+      "SKILL.md",
+      "Claude Code",
+      "Codex",
+      "오픈 표준"
+    ],
+    "filename": "2026-08-25-agent-skills-skill-md-open-standard-portable-guide.md",
+    "word_count": 2382,
+    "quality_score": "pass"
   }
 ]
