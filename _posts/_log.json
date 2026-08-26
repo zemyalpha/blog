@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-26",
+    "title": "AI 에이전트 메모리 설계: Mem0·Letta·Zep(Graphiti) 아키텍처 비교와 선택 기준",
+    "lang": "ko",
+    "keywords": [
+      "AI 에이전트 메모리",
+      "Mem0",
+      "Letta",
+      "Zep",
+      "LongMemEval"
+    ],
+    "filename": "2026-08-26-agent-memory-architecture-mem0-letta-zep-selection-guide.md",
+    "word_count": 3692,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-08",
     "title": "LLM JSON 실패를 0%로: Constrained Decoding 엔진 비교와 실전 적용 가이드",
     "lang": "ko",
