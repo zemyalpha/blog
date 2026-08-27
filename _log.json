@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-27",
+    "title": "영어 1위 모델이 한국어에서는 진다: 2026년 오픈소스 STT 실전 선택 가이드",
+    "lang": "ko",
+    "keywords": [
+      "오픈소스 STT",
+      "음성인식",
+      "Qwen3-ASR",
+      "Whisper",
+      "한국어 음성인식",
+      "Parakeet TDT",
+      "ASR 벤치마크"
+    ],
+    "filename": "2026-08-27-open-source-stt-2026-korean-qwen3-asr-whisper-selection.md",
+    "word_count": 4931,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-24",
     "title": "터미널에서 일하는 AI 에이전트는 63%에서 멈춘다: Terminal-Bench 2.0 리더보드와 실패의 해부학",
     "lang": "ko",
