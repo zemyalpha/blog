@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-28",
+    "title": "MCP 서버의 91.5%는 OAuth 없이 돌아간다: Astrix 스캔 5,200대가 드러낸 인증 실태와 OAuth 2.1 리소스 서버 구현",
+    "lang": "ko",
+    "keywords": [
+      "MCP 보안",
+      "OAuth 2.1",
+      "Model Context Protocol",
+      "MCP 서버 인증",
+      "CVE-2025-6514",
+      "Astrix",
+      "토큰 검증"
+    ],
+    "filename": "2026-08-28-mcp-server-oauth-security-astrix-scan-implementation.md",
+    "word_count": 4600,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-27",
     "title": "영어 1위 모델이 한국어에서는 진다: 2026년 오픈소스 STT 실전 선택 가이드",
     "lang": "ko",
