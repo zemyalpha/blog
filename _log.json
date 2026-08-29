@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-08-29",
+    "title": "구조화 출력은 100% 파싱을 보장하지만 정답을 보장하지 않는다: 스키마 유효성과 의미 품질의 품질 세금까지",
+    "lang": "ko",
+    "keywords": [
+      "구조화 출력",
+      "structured outputs",
+      "constrained decoding",
+      "Instructor",
+      "Outlines",
+      "JSON Schema",
+      "LLM 파이프라인"
+    ],
+    "filename": "2026-08-29-structured-output-constrained-decoding-quality-tax-production.md",
+    "word_count": 5800,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-28",
     "title": "MCP 서버의 91.5%는 OAuth 없이 돌아간다: Astrix 스캔 5,200대가 드러낸 인증 실태와 OAuth 2.1 리소스 서버 구현",
     "lang": "ko",
