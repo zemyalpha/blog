@@ -1150,5 +1150,21 @@
     "filename": "2026-08-04-synthetic-data-llm-pretraining-ratio-model-collapse.md",
     "word_count": 3200,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-08-30",
+    "title": "맥에서 로컬 LLM 서빙할 때 MLX를 고르는 기준: M2 Ultra 벤치마크와 M5 뉴럴 액셀러레이터가 바꾼 계산식",
+    "lang": "ko",
+    "keywords": [
+      "MLX",
+      "Apple Silicon",
+      "로컬 LLM",
+      "Ollama",
+      "llama.cpp",
+      "MLC-LLM"
+    ],
+    "filename": "2026-08-30-apple-silicon-mlx-llm-runtime-choice.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
