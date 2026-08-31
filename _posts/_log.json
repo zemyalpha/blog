@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-31",
+    "title": "LLM API 비용을 구조적으로 줄이는 두 축: 프롬프트 캐싱과 모델 라우팅 실전 가이드",
+    "lang": "ko",
+    "keywords": [
+      "프롬프트 캐싱",
+      "prompt caching",
+      "모델 라우팅",
+      "RouteLLM",
+      "LLM 비용 최적화",
+      "KV cache"
+    ],
+    "filename": "2026-08-31-llm-cost-optimization-prompt-caching-model-routing.md",
+    "word_count": 5200,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-26",
     "title": "AI 에이전트 메모리 설계: Mem0·Letta·Zep(Graphiti) 아키텍처 비교와 선택 기준",
     "lang": "ko",
