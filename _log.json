@@ -1166,5 +1166,21 @@
     "filename": "2026-08-30-apple-silicon-mlx-llm-runtime-choice.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-02",
+    "title": "GraphRAG 정말 필요한가: RAGSearch 벤치마크가 밝힌 multi-hop 성능과 1M 토큰당 구축 비용",
+    "lang": "ko",
+    "keywords": [
+      "GraphRAG",
+      "Agentic Search",
+      "RAG 벤치마크",
+      "Search-R1",
+      "HippoRAG",
+      "multi-hop QA"
+    ],
+    "filename": "2026-09-02-graphrag-vs-dense-rag-agentic-search-benchmark-ragsearch.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
