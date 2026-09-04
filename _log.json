@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-04",
+    "title": "vLLM FP8 KV 캐시 실전 가이드: 디코드 비용 절반으로 줄이는 조건 3가지",
+    "lang": "ko",
+    "keywords": [
+      "vLLM",
+      "FP8 KV Cache",
+      "LLM 추론 최적화",
+      "prefix caching",
+      "GPU 메모리"
+    ],
+    "filename": "2026-09-04-vllm-fp8-kv-cache-prefix-caching-guide.md",
+    "word_count": 4200,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-29",
     "title": "구조화 출력은 100% 파싱을 보장하지만 정답을 보장하지 않는다: 스키마 유효성과 의미 품질의 품질 세금까지",
     "lang": "ko",
