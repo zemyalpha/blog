@@ -1213,5 +1213,21 @@
     "filename": "2026-09-03-voice-agent-latency-budget-ttfa-ttfs-measurement.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-05",
+    "title": "MCP 2026-07-28 스펙 해부: 세션을 버린 프로토콜이 에이전트 인프라를 어떻게 바꾸나",
+    "lang": "ko",
+    "keywords": [
+      "MCP",
+      "Model Context Protocol",
+      "stateless",
+      "에이전트 인프라",
+      "MRTR",
+      "CIMD"
+    ],
+    "filename": "2026-09-05-mcp-2026-07-28-spec-stateless-migration.md",
+    "word_count": 4300,
+    "quality_score": "pass"
   }
 ]
