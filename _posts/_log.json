@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-06",
+    "title": "정답만 확인하면 학습이 된다: RLVR과 GRPO로 추론 모델을 훈련하는 원리와 실전",
+    "lang": "ko",
+    "keywords": [
+      "RLVR",
+      "GRPO",
+      "강화학습",
+      "추론 모델",
+      "DeepSeek-R1"
+    ],
+    "filename": "2026-09-06-rlvr-grpo-reasoning-model-training-guide.md",
+    "word_count": 4300,
+    "quality_score": "pass"
+  },
+  {
     "date": "2026-08-31",
     "title": "LLM API 비용을 구조적으로 줄이는 두 축: 프롬프트 캐싱과 모델 라우팅 실전 가이드",
     "lang": "ko",
