@@ -1229,5 +1229,21 @@
     "filename": "2026-09-05-mcp-2026-07-28-spec-stateless-migration.md",
     "word_count": 4300,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-07",
+    "title": "임베딩 모델 선택은 리더보드가 아니라 차원 수로 한다: Matryoshka 잘라내기와 양자화의 실전 비용 계산",
+    "lang": "ko",
+    "keywords": [
+      "임베딩 모델",
+      "Matryoshka",
+      "MTEB",
+      "벡터 검색",
+      "양자화",
+      "RAG"
+    ],
+    "filename": "2026-09-07-embedding-model-selection-matryoshka-truncation-quantization-cost.md",
+    "word_count": 3400,
+    "quality_score": "pass"
   }
 ]
