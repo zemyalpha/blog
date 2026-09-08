@@ -1245,5 +1245,20 @@
     "filename": "2026-09-07-embedding-model-selection-matryoshka-truncation-quantization-cost.md",
     "word_count": 3400,
     "quality_score": "pass"
+  },
+  {
+    "date": "2026-09-08",
+    "title": "AI 에이전트가 대화를 기억하지 못하는 진짜 이유: LoCoMo·LongMemEval 벤치마크로 배우는 메모리 설계",
+    "lang": "ko",
+    "keywords": [
+      "AI 에이전트 메모리",
+      "LoCoMo",
+      "LongMemEval",
+      "장기 기억",
+      "컨텍스트 엔지니어링"
+    ],
+    "filename": "2026-09-08-agent-memory-locomo-longmemeval-design.md",
+    "word_count": 3600,
+    "quality_score": "pass"
   }
 ]
